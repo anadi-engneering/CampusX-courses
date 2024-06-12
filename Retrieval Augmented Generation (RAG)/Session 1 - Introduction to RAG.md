@@ -392,5 +392,17 @@ Chunking or splitting refers to the process of breaking down large pieces of tex
 
 These concepts and techniques are widely employed in various machine learning and natural language processing applications, enabling more efficient and effective processing of data, particularly in the realm of text and natural language.
 
+Here is a detailed table summarizing the key concepts:
+
+| **Term**          | **Definition**                                                                                                                                                                                                                       | **Examples/Applications**                                                                                       |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Embeddings**    | Dense vector representations of data (such as words, sentences, or images) where similar items are mapped to nearby points in a continuous vector space, facilitating efficient processing and comparison.                           | Word2Vec, GloVe, Sentence Transformers                                                                          |
+| **Vector Database**| A specialized database designed to store and manage high-dimensional vectors, commonly used in machine learning and AI applications for tasks like similarity search and nearest neighbor search.                                   | Chroma DB, PineCone                                                                                             |
+| **Tokenizer**     | A tool or algorithm that breaks down text into smaller units, such as words, subwords, or characters, which are then used as inputs for natural language processing models.                                                           | Byte Pair Encoding (BPE), WordPiece, SentencePiece                                                              |
+| **HuggingFace**   | A company and open-source community that provides tools, libraries, and models for natural language processing, including the popular Transformers library for working with pre-trained language models.                             | Transformers library, Datasets library, Model Hub                                                                |
+| **Chunking/Splitting** | The process of breaking down large pieces of text or data into smaller, more manageable parts, often used to improve the efficiency and accuracy of processing in NLP tasks.                                                      | Splitting a document into paragraphs or sentences for processing, dividing a dataset into smaller batches       |
+
+This table provides a concise overview of each term, its definition, and some examples or applications where they are commonly used. If you need further details or have any specific questions, feel free to ask!
+
 
 
